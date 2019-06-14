@@ -1,0 +1,24 @@
+Problem 1: Predict Material
+
+Tool used: 
+
+Platform: Python3, Jupyter Notebook
+Library/Modeule: Pandas, Sklearn(LabelEncoder, Logistic Regression), tf-idfVectorization
+Algorithm : XGBoost and Random forest (RF)
+
+Steps:
+1. Read dataset
+2. Fill NA values & Encode the Categorical values using Label Encoder
+3. dropped the columns
+4. Used Title as deciding columns.
+5. 
+6. Text preprocessing 
+7. Vectorize the words and truncate to 30 columns
+8. Split the dataset into train and test
+9. tested Classifier (Logistic regression, RF, XGboost, LSTM and Catboost)
+10. check the accuracy
+11. Read and process test file
+12. Predict the test output 
+13. Format it in the submission file.
+14. Upload, END
+
