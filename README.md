@@ -1,2 +1,3 @@
 # HackerEath-Ericsson-Challange
-Text Classification
+Text Classification using Tf-IDF vectorization
+
